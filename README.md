@@ -1,7 +1,6 @@
 # The Inspectorate Games
 
-This code has been created for the Inspectorate Games R&D project.
-
+Prototype game created for WorkSafe New Zealand as part of an internship.
 
 
 # Project setup
