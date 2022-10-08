@@ -1,0 +1,23 @@
+{
+    "today":[
+        {"name":"Charles", "points":"195"},
+        {"name":"Pedro ", "points":"180"},
+        {"name":"Mike", "points":"155"},
+        {"name":"Rosey", "points":"130"},
+        {"name":"Scarlett", "points":"110"}
+    ],
+    "month":[
+        {"name":"Charles", "points":"1500"},
+        {"name":"Mike", "points":"1250"},
+        {"name":"Pedro ", "points":"980"},
+        {"name":"Rosey", "points":"570"},
+        {"name":"Scarlett", "points":"470"}
+    ],
+    "year":[
+        {"name":"Mike", "points":"8900"},
+        {"name":"Charles", "points":"7980"},
+        {"name":"Pedro ", "points":"5980"},
+        {"name":"Rosey", "points":"4800"},
+        {"name":"Scarlett", "points":"3705"}
+    ]
+}
